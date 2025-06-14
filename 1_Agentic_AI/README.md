@@ -41,9 +41,12 @@ This table outlines the key differences between **CrewAI** and **Microsoft AutoG
 
 ---
 
-I might expand this repo further in the future with chatdev, metagpt, and taskweaver.
-
 > 💡 **Use CrewAI** if you're looking for structured workflows, clear abstractions, and faster prototyping.
 > 💡 **Use AutoGen** if you need full control over agent communication, async workflows, and conversation modeling.
+
+---
+
+### I might expand this repo further with chatdev, metagpt, and taskweaver.
+
 
 

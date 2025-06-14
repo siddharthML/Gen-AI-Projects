@@ -1,4 +1,4 @@
-In this repo I have the code for two agentic frameworks:
+In this repo I have the code for two agentic AI frameworks:
 
 1) Crew AI
 2) Autogen

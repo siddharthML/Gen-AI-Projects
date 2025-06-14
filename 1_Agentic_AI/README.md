@@ -1,7 +1,7 @@
 In this repo I have the code for two agentic AI frameworks:
 
-1) Crew AI
-2) Autogen
+1) [Crew AI](https://www.crewai.com/)
+2) [Autogen](https://microsoft.github.io/autogen/stable//index.html)
 
 ----
 # Overview:

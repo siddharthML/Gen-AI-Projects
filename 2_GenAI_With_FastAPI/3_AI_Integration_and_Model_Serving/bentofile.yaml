@@ -1,0 +1,10 @@
+service: "service:Generate"
+
+labels:
+  owner: "siddharth"
+  project: "genai"
+
+python:
+  packages:
+    - bentoml
+    - model_vision  # Add other required dependencies

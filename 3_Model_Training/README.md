@@ -1,7 +1,7 @@
 To cover in this repo:
 1) Full Finetuning
 2) Supervised Finetuning (SFT)
-3) Reinforcement Learning with Human Feedback (RLHF)
+3) Reinforcement Learning from Human Feedback (RLHF)
 4) Mixture of Experts
 5) PEFT (Parameter Efficient Finetuning)
     - LoRA

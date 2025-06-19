@@ -1,0 +1,2323 @@
+sales pitch : how to craft a story to stand out and win
+
+Part 1:
+
+I work with the founders and CEOs of
+technology companies, many of whom
+have a background in engineering and
+tech. The most common complaint I get
+from these people is that “selling is hard!”
+
+In marketing, we make a distinction between “considered” and
+“unconsidered” purchases. Typically, an unconsidered purchase is easier to
+make than a considered purchase.
+An unconsidered purchase is something you buy without much planning or
+forethought. This includes everyday consumer products like toothpaste, a
+sandwich for lunch, or a pack of gum. You don’t do much, if any, research
+ahead of time. Yes, you might compare your options, but mainly you limit
+your choices to whatever is in front of you at that moment. The stakes for
+an unconsidered purchase are low. If you make a poor choice you’re
+unhappy with later, it’s not a big deal—you will just be sure not to buy it
+again.
+Considered purchases take more time and effort because there are
+potentially negative consequences if you make a poor choice. Buying a
+house or purchasing life insurance are examples of considered purchases
+where the impact of making a bad choice is high. A poor decision could cost
+you and your family an incredible amount of money. There are many
+options to choose from and buyers will spend some time educating
+themselves on what choices are available. In a considered purchase, there
+are often other people impacted by the decision who might be involved in
+the purchase process, making it even harder and more time-consuming to
+make a final decision.
+
+Most technology purchased by businesses, from accounting software to
+project management tools, are highly considered purchases. The stakes are
+high in a business purchase. Often, the purchase must be justified to a
+manager who might question your competence if you make a bad
+recommendation. Users might be upset if your newly selected product is
+difficult to use. Bad technology could impact the performance of the
+business and, in extreme cases, cost the purchaser their job. In short, buying
+software for a business is nothing like buying a new pair of shoes.
+We dramatically underestimate how difficult it is to make a considered
+purchase decision. As sellers, we are often so preoccupied with how
+difficult it is to sell a product that we completely lose sight of how buyers
+are feeling during the purchase process. We are so close to our own
+offerings that we assume they are easy to understand and to decide to
+purchase, but frequently this is not the case. Before I give you a businessto-
+business (B2B) technology example, let me give you a non-technology
+example of a purchase process that I assumed would be easy and turned out
+to be frustratingly difficult.
+
+
+
+
+“Customers, it turns
+out, are much less
+worried about missing
+out than they are
+about messing up.”
+Matthew Dixon & Ted McKenna
+
+Buyers Want a Guide
+What happened there? Was the salesperson giving me a pushy hard sell on a
+toilet? No. Was the salesperson giving me a walkthrough of every feature a
+toilet could have? Nope. What he did was give me a way to categorize all of
+my options so I could make an informed choice for myself based on what
+was most important to me. He was acting like a knowledgeable guide, and
+in doing so, he taught me how to confidently make a purchase.
+
+The Sales Rep Isn’t Helping
+the Buyer Make a Decision
+Eventually, Joey narrows down the choices to a shortlist of vendors. He
+might sign up for free versions or trials for each of the vendors on his list,
+but he’s still not sure yet exactly what he needs, so he sets up sales
+appointments with each vendor. Each meeting turns out to be exactly the
+same. The call starts with the sales rep asking questions about Joey’s
+company and its requirements for accounting software. Joey answers as best
+he can, but the truth is, he isn’t entirely sure his list of requirements is
+correct or complete. The rep then switches gears and gives Joey a demo of
+the product. Joey feels like he has been invited to step into a wind tunnel of
+features. He doesn’t understand many of them, but all seem potentially
+important for his company. By the end of the product walkthrough, Joey’s
+feeling of overwhelm is peaking.
+The Buyer Is Nervous
+Because the Stakes Are High
+Joey knows he is going to have to get IT and a few end users involved at
+some point before he can make a recommendation to Janet, and he’s
+worried a poor choice might make him look stupid. If the product isn’t a
+great fit, the company might be impacted, and that’s not good. Joey might
+get passed over for his next promotion or, worse, fired.
+
+The Safest Choice Is the Easiest Choice
+If you’re a buyer like Joey, what’s the easiest decision to make at this point?
+The easiest decision would be to go back to Janet and recommend the
+company sticks with the current solution. Hey, it’s been working fine for
+years, it should be okay for a couple more, and besides, there is that audit to
+deal with right now. Maybe next year someone can look into getting new
+software. “Someone,” he thinks, “that isn’t me.” So, the company does
+nothing.
+
+The easiest, 
+safest purchase 
+decision is often 
+no decision. 
+
+“Do Nothing” Is Your Fiercest Competitor
+You might believe that the decision to do nothing happens infrequently, but
+you would be mistaken. In their 2022 book, The JOLT Effect: How High
+Performers Overcome Customer Indecision, Matthew Dixon and Ted
+McKenna reveal that between 40 and 60 percent of purchase processes end
+in no decision. Interestingly, most of the time, this doesn’t mean that the
+buyer has decided their current solution is better than the alternatives.
+Instead, the buyer doesn’t feel confident they have the information needed
+to make an informed choice. The worry that they could make a costly
+mistake leads them to dropping out of the purchase process completely.
+Customers can’t figure out how they should evaluate and buy solutions, so
+they simply don’t buy anything.
+
+Not making a purchase at all is an incredibly attractive option for a buyer
+who is worried about making a poor choice. A buyer won’t get in trouble
+for simply suggesting the company keep doing what they are doing. Hey,
+it’s not perfect, but it’s been working more or less okay for years. Why not
+wait and hang on for another year (or another, or another after that)?
+Nobody has to go through the pain of training and learning a new system.
+Nobody gets mad because the new system didn’t do what was promised.
+Moving away from a solution that kinda, sorta does the job takes more than
+effort—it also takes courage. As vendors, we underestimate the pull of “no
+decision” at our peril.
+
+It’s also important to understand that when a customer fails to make a
+decision, this doesn’t always signal a strong preference for their current
+solution. No decision is as likely to be a vote against change as it is a vote
+for the status quo. As a vendor, you always need to position against the
+buyer’s status quo, even if there are other vendors to worry about on the
+customer’s shortlist. Part of positioning against the status quo is making the
+
+case for change.
+Now more than ever, buyers have access to mountains of information—
+from vendors, review sites, and analysts—but they struggle to make sense
+of it. It is a mistake to assume that because such information exists, buyers
+no longer need any help to make a purchase decision. The effort to make
+sense of that information is massive. Buyers are drowning in information
+but starved for market insight. Prospects who can’t confidently make a
+choice between options will generally take the lowest risk option, which is
+to simply do nothing and keep using the status quo.
+Emotions in B2B Selling
+Consumer marketers talk a lot about the role of emotions in the purchase
+process. Many of the personal purchases we make are driven by our
+feelings and desires related to self-worth, acceptance, status, love, and good
+old-fashioned sex. Emotions matter in business purchases, too, but the types
+of emotions that drive purchase behaviors are often different. Fear is the
+granddaddy of B2B emotions. Fear of failure. Fear of the repercussions of
+making a poor decision. Fear of looking stupid. Fear of getting fired. In a
+sales situation, invoking feelings like trust and confidence can go a long
+way toward helping buyers overcome their fear. Later in the book, I will
+talk more about how you can build trust and confidence in your buyer.
+
+What Do
+Customers
+Want from
+Vendors?
+
+So, what should your role be
+in helping your customers make
+purchase decisions?
+Many of the technology start-ups I work with assume that helping customers
+buy isn’t really their job as vendors. Their job is to sell their product. They
+assume that customers can and will do their own research, figure out their
+purchase criteria, make a shortlist, evaluate the options, and choose a
+product to purchase. They believe the vendor’s job is to understand
+customers’ problems and show how their solution solves them. Many
+companies are convinced that buyers don’t want to hear their opinions on
+how customers should make a purchase decision. And besides, why would
+the customer believe them?
+But as it turns out, customers want more from vendors than they generally
+give them. In the groundbreaking 2011 book The Challenger Sale, authors
+Matthew Dixon and Brent Adamson reveal that buyers placed the most value
+on a sales rep’s teaching skills. They found that the key characteristics of a
+world-class sales experience all related to the sales rep’s ability to help
+customers figure out how to make an informed purchase. Research tells us
+that in a sales call, buyers expect sellers to help them understand their
+options. Buyers would like vendors to help them understand the trade-offs
+between different approaches to solving their problem. They want to
+understand potential pitfalls and how to avoid them. Buyers are looking for
+ways to understand what choices are available to them and how they should
+choose between them. This stands in stark contrast to what many companies
+are currently communicating across marketing and sales.
+
+Often, we simply aren’t giving buyers what they want. Go to most
+technology companies’ websites or talk to their sales reps and you won’t
+hear anything about the market or competitors. They are talking about the
+company and the product in complete isolation. You may be highlighting
+what you believe your best features are, but you are leaving it up to the
+customer to determine why those features matter and whether or not other
+alternatives can accomplish the same thing. Buyers are left doing all the
+work to figure out what is important and what isn’t, and how different
+vendors stack up for businesses like theirs.
+
+The person leading a B2B purchase process is tasked with making a wellinformed,
+low-risk, defensible purchase decision. Vendors tend to assume
+the question the prospect wants them to answer is, “Why pick you?” Instead,
+the question the customer really wants the vendor to answer is, “Why pick
+you over all the alternatives?” If the vendor really wants to answer that latter
+question, they need to go beyond talking about their product and its features
+in isolation.
+
+Buyers Are Experts in Pain,
+Vendors Are Experts in Solutions
+Marketing and salespeople are often taught that customers have all the
+answers. Marketers are taught that any good marketing effort starts with
+customer research. Salespeople are taught that a good sales call starts with
+asking the customer questions about their situation, pain points, and goals
+
+Knowing your customers is vitally important. You need to deeply understand
+what motivates them, and the jobs they need to accomplish, and you can
+understand that only by talking to your customers because they are experts in
+their pain. After a purchase, customers can tell you a lot about how they are
+using your product and what they love and hate about your solution.
+Customers can also tell you what other solutions they evaluated and, if you
+are good at pulling this out of them, why they chose you.
+But customers don’t understand the market the way you do. As vendors
+operating in this solution space, you are more knowledgeable about what is
+possible and what isn’t. You understand the underlying technology, and what
+its potential is, much better than your prospects do.
+Understanding the solution space in which you operate is your business.
+Every day, everyone in the company is thinking and learning about and
+working on this. Customers are focused on their own businesses, and they
+don’t start thinking about your market until they are in a purchase process.
+And often the person in charge of making a purchase recommendation has
+never purchased a product like yours before.
+
+Why a features-only pitch for Help Scout doesn’t work. Many SaaS
+(software as a service) businesses like Help Scout would merely give a
+prospect a tour of their features. This product walkthrough–style demo
+would simply sound like a tour of Help Scout’s features—show the shared
+inbox interface, show how multiple inboxes are set up, show the integrated
+knowledge base, show how to avoid duplicate replies, show automated
+workflows, show integrations with other apps, etc. Would this demo help a
+customer make a purchase decision? No, it wouldn’t. Many of these features
+seem to overlap with either a shared inbox or traditional help desk software.
+How is Help Scout really different, and what value can it deliver that other
+solutions can’t? The feature pitch doesn’t answer these questions.
+
+What would a sales pitch that helps customers buy look like? Instead of a
+traditional product walkthrough, Help Scout helps customers understand
+their point of view on the market and how their approach is different from
+the alternatives. It then moves to a demo focused on the value that only they
+can deliver. The conversation goes something like this:
+Rep: We’ve seen with the digital brands we work with that customer service
+is an effective way to build brand loyalty and drive growth. Great service
+can decrease customer acquisition costs and drive customer referrals.
+Prospect: We certainly think great service is important for our business.
+Rep: We’ve seen companies like yours start with a shared inbox, which is
+easy for service folks to use. Eventually, however, the business grows, and
+they start looking for more scalable support features like workflows and
+assignments. How have you folks been handling support so far?
+Prospect: We use a shared inbox today, but we have a hard time handling the
+volume of requests we get, so we are looking for something more scalable.
+Rep: Many of our customers will then look at traditional help desk software.
+Those solutions have advanced features, but they do have some drawbacks.
+They’re difficult to use compared to a shared inbox, but more importantly, the products were designed to reduce support costs by driving customers to
+low-cost channels and reducing the number of support tickets. They do this
+at the expense of delivering a great customer experience.
+Prospect: We’re worried about how hard it will be to get our service reps up
+to speed with a help desk package. We certainly want to ensure we are
+giving customers a great experience.
+Rep: We believe the perfect customer service solution for companies like
+yours would be as easy to use as a shared inbox, have the advanced features
+you need so you don’t grow out of it, and be highly focused on delivering an
+amazing customer service experience. Would you agree with that?
+Prospect: That’s what we are looking for.
+Rep: Great, let me show you how Help Scout does this.
+At this point, the rep moves to a demo that is organized around their key
+value points:
+An easy-to-use inbox experience: showing the key points of the user
+interface (UI)
+*
+Advanced support features you won’t outgrow: showing workflows,
+assignments, etc.
+•
+Delivering a great customer experience—customer chooses their preferred
+channel, customers are never assigned a ticket number, etc.
+
+Unlike a traditional product walkthrough, this pitch makes it perfectly clear
+how Help Scout is different and better than the alternatives. It gives
+customers a view of the entire market and helps them understand where Help
+Scout fits. It also allows sales to show the product but keeps the focus on the
+value only they can deliver.
+
+
+PART TWO
+
+Sales Pitch Principles
+
+Before we look at how to structure a
+sales pitch, let’s go over what needs to
+happen before and during a first sales
+call with a prospect.
+
+These key elements are qualification,
+discovery, product demonstrations, and differentiated value.
+
+Qualification
+The process of qualification is making sure your prospect is a potential
+good fit for your offering. Qualification is important because you don’t
+want to waste critical sales resources (not to mention the customer’s time!)
+pitching a product to a company that isn’t a fit for what you do.
+Qualification criteria can be a range of things depending on your product
+and the way you sell. Criteria could include information like company size
+or revenue, whether there is a technical fit for your solution, and the
+company’s budget, for example.
+
+For most companies selling to businesses, qualification happens before the
+buyer gets to a first true sales meeting. Some companies will do this online
+with a questionnaire or form, but more often, business development reps
+(BDRs) will have a short call with a prospect to qualify them, and only
+those who meet the qualification criteria will be booked for a first call with
+a sales rep.
+The sales pitch is the story you tell in that first call, so the prospect you are
+talking to should already be qualified. If your sales process doesn’t include
+a qualification step before a first call, you will need to work qualification
+questions into your discovery conversation.
+
+Discovery
+Discovery usually happens in a first sales call. Done well, discovery is a
+conversation during which the buyer teaches the seller about their pain,
+problems, and situation, but the seller is also teaching the buyer about their
+point of view on problems and solutions in the space.
+A successful discovery conversation aligns buyers and sellers on the true
+nature of the problem, what to consider when evaluating solutions, and the
+value a perfect solution should deliver. That means a good sales pitch needs
+to accommodate space for a rep to have a discovery conversation with a
+prospect.
+
+Product Demonstrations
+I have never encountered a prospect who wants to be “sold” to. Nobody
+wants to be on the receiving end of pushy, high-pressure tactics that try to
+force them into making a decision they aren’t comfortable with. So I
+strongly believe that when a prospect comes to your site and clicks the
+button that says, “Book a demo,” what they crave most is knowledge that
+spans both the market and your product. Prospects want to understand how
+to make a good choice that doesn’t get them fired. Yes, they want to see the
+product, but they also want insight to help them make sense of what they
+are looking at.
+Many, but not all, companies do a product demonstration in a first call with
+a customer. Often, prospects book the sales meeting explicitly because they
+want to see a demo and get a feel for the experience your product delivers.
+In some cases, demonstrating how your product works is the best way to
+communicate the value of what it does.
+
+There are various structures for product demos. The most used one I’ve
+seen is a “product walkthrough.” This is simply a guided tour of the key
+functionality of the product. I’ve seen other variations, including a “day in
+the life” demo that shows how a user would complete typical tasks. Some
+companies prefer to do a highly customized demo, tailored to what they
+believe the customer wants to see.
+
+When You Do a Product Demo,
+Always Show Your Best
+
+No matter what format you choose for your product demonstration, a first
+call should show customers the best of what you can do, whether or not
+they requested to see what you would consider your best capabilities. As I
+showed earlier, buyers aren’t always exactly sure what their purchase
+criteria should be. A first demo is a chance to firmly position yourself in the
+prospect’s mind by showing what makes your product different and better
+than the alternatives in general.
+
+It is impossible to
+differentiate yourself
+without addressing
+the alternatives.
+For example, I worked at a company that sold a customer relationship
+management (CRM) solution for investment banks, and we had a unique
+killer feature that delivered value that investment bankers loved. Did any of
+our prospects ask to see that capability in a qualification call? Never. They
+didn’t know it was even possible. Did we show it to every customer
+anyway? You bet we did, and it was the main reason we won business.
+
+If You Customize Your Demo,
+Do It in a Second Call
+Some companies want to do a customized demo. In my opinion, that can
+generally come in a second meeting. It’s difficult to customize a demo until
+after you’ve done discovery, and showing a completely customized demo in
+the first meeting misses an opportunity to show prospects what you can do,
+beyond what they already think they need. A custom demo can come in a
+follow-up meeting if that makes sense.
+
+You Can Skip a Demo in Some Instances
+I also think it’s fine to skip doing a demo in a first sales call. Sometimes,
+customers have already done a trial or used a free version of the product
+and they simply don’t need to see it. Other times, there simply isn’t much
+value in showing the product in isolation. For example, I worked at a
+company that sold databases and we rarely demoed the product (hey, if
+you’ve seen one SQL query, you’ve seen them all). Instead, we focused on
+ensuring that our prospects conceptually understood the capabilities that
+enabled us to deliver unique business value.
+
+Differentiated Value
+Value, and more importantly differentiated value, is at the core of great
+sales and marketing. Yet, of all the concepts in marketing and sales, value is
+probably the least understood. More than anything else you might learn in
+this book, if you learn that a great sales pitch should be oriented around
+your differentiated value, I guarantee you will sell more.
+Many of us working in technology come from a technical background, and
+it isn’t surprising that most start-ups will naturally focus on features in their
+sales and marketing. It’s our comfort zone. But as much as we love features,
+what really matters for customers is the business value they get from those
+features.
+For many features of B2B products, you cannot assume that customers can
+make the leap from features to why the features matter. Value is the answer
+to the question, “So what?”
+
+•
+Your database supports advanced usage metrics, including query runs. So
+what? So support personnel can better assist customers.
+•
+Your CRM automatically sends status updates to managers. So what? So
+your sales reps can spend less time building reports and more time selling.
+•
+Your accounting system supports adding an expiration date on inventory
+items. So what? So you can ensure you never sell an expired item and can
+easily know when to apply discounts to items that expire soon.
+
+It may be true, for example, that your product saves
+time for companies. But what if all your competitors also help companies
+save time? Suddenly, your value is interesting but not a reason to buy.
+Exposing your differentiated value, and helping a prospect understand why
+it is important for them, is the key to winning business. A great sales pitch
+tells the story of the value that only your product can deliver and why that
+value is very important to a certain kind of buyer. It is the answer to the
+question, “Why pick us over the alternatives?”
+
+You Can’t Differentiate Yourself
+without Addressing the Alternatives
+You cannot teach customers your differentiated value and why it matters
+without talking about the alternatives in the market. A good sales pitch
+addresses the alternatives and helps customers understand how to categorize
+them, and what their strengths and weaknesses are for different types of
+buyers.
+----
+
+Four Common
+Approaches to
+Storytelling
+in a Sales Pitch
+
+If you believe that your job as a
+vendor is to teach customers how
+to confidently make a purchase
+decision, then how do you do that?
+
+Smart businesses tell a wide range of stories for different audiences and to
+sell different things.
+For example, many companies have an “employer” story designed to help
+prospective employees decide if they should join the company. This story is
+often focused on the company’s values and mission.
+If a company is raising money, they will use an investor pitch to help
+investors understand why they are a good investment. This story is often
+focused on the company vision and the business they will be in five or ten
+years in the future.
+And then there is the sales pitch that sells a product or service. Unlike the
+investor pitch, which is all about the future, an effective sales pitch is firmly
+oriented in the present. This is the story that companies tell prospects to
+answer the question, “Why choose us over the alternatives you could
+choose today?”
+
+Naturally, these different sales stories are also structured differently. Most
+sales and marketing teams use one of four distinct approaches to craft a
+narrative or pitch:
+1
+The product walkthrough
+2
+The problem/solution pitch
+3
+The vision narrative
+4
+The hero’s journey
+
+The Product Walkthrough
+I have spent most of my career running marketing teams at technology
+start-ups. In almost every case, the structure the sales team used in a first
+sales meeting was essentially a product walkthrough. Some walkthroughs
+simply click through each menu item and explain what it does. Others
+describe how a user would accomplish certain tasks. Some do a more
+customized walkthrough based on what they know about the prospect.
+When Does It Work Best?
+This style of narrative works best when the buyer is highly educated or the
+solution they are using now is very similar to what you sell. Buyers in this
+situation will be better able to translate the features they are shown into
+business value.
+
+What’s the Downside?
+It is focused on features, not value. Prospects don’t necessarily understand
+why they should care about particular features, so they may not be able to
+figure out why those features are important for their business.
+
+“Identify stories
+that pique buyers’
+curiosity and move
+them to action.”
+Jill Konrath
+
+You spend too much time on capabilities that are not differentiating. Most
+product walkthroughs try to show everything they can do without
+highlighting what is differentiated. Is the way you log in innovative? Is how
+you set up an account any different from the alternatives? What value is
+there in showing that? The product walkthrough generally does a poor job
+of answering the question, “Why pick you over the alternatives?”
+
+The product walkthrough is all about your solution and leaves no room to
+discuss the market. The product walkthrough does not accomplish what
+most B2B buyers want: a way to understand all the alternatives so they can
+confidently make the right choice for their business. To confidently choose
+you, buyers need to understand why the alternatives can’t meet their needs
+better.
+The Problem/Solution Pitch
+The problem/solution pitch is generally very similar to the product
+walkthrough pitch with bit of setup before you jump into the demo. In these
+pitches, you describe “the problem” the customer has and then position
+your product as “the solution” to that problem, before following up with a
+demo that shows how you deliver the solution.
+
+When Does It Work Best?
+Like the product walkthrough, this style of narrative works best when the
+buyer is highly educated and can translate the features they are shown into
+business value. This style of pitch is also more effective when the only
+competitor in the market is the status quo. It is dramatically less effective
+when there are many alternatives for the prospect to consider.
+What’s the Downside?
+Your competitors define the problem the same way you do. You have
+identified that folks looking for accounting software need a fast, easy way
+to do accounting. That’s obvious, and all your competitors also solve that
+problem. There is nothing in this pitch style that gives you a way to
+highlight your differentiated value and answer the question, “Why pick you
+over the alternatives?”
+It is focused on features, not your differentiated value. The
+problem/solution pitch tends to turn into a feature walkthrough once the
+problem has been defined. There is no focus on the value you can deliver
+that the other alternatives cannot.
+
+The Vision Narrative
+In technology companies that are raising money, the CEO will have a
+narrative that is used to pitch the company to investors. This narrative
+structure is often formed around describing the current approach to a
+particular problem (the tired and crappy “old way”), and then painting a
+picture of an alternative approach (the amazing and shiny “new way”) that,
+if current trends continue, will be a much better way to do things in the
+future. The vision narrative is less about the current state of the product and
+more about its future state and the company’s strategy to get there.
+
+“You can’t sell
+anything if
+you can’t
+tell anything.”
+Beth Comstock
+
+When Does It Work Best?
+The vision narrative works best when pitching investors. For investors, the
+vision pitch does a good job of explaining where the company is going and
+why you are a good potential investment.
+What’s the Downside?
+It ignores competitors beyond the status quo. For most solutions, there are
+many alternatives a customer might consider. Attempting to position a wide
+range of alternatives as “the old way” simply doesn’t work when there are
+competing “new ways” to consider, as well as alternatives that cannot be
+credibly classified as simply “old” or “new.”
+The vision narrative gives buyers yet another reason to delay a decision.
+Even if you successfully sell the vision, you risk giving the buyer a reason
+to delay a purchase. There’s no urgency to buy something when it doesn’t
+exist yet, not to mention the added risk that you may never deliver on the
+vision. Prospects on the receiving end of a vision pitch often respond with,
+“Hey, that’s great. Come back next year and pitch this to me when it
+exists!”
+It isn’t centered on differentiated value. It assumes that “new” is valuable
+(and the only value that matters). For B2B buyers, newness isn’t always
+obviously valuable. Worse, it can have negative associations—untested,
+unreliable, lacking in features, or insecure. The vision narrative is not
+oriented around differentiated value—what your solution can do for their
+business that no other solution can—which is the core of any good sales
+pitch
+
+The Hero’s Journey
+The most famous narrative structure for storytelling in general is known as
+the “hero’s journey.” The hero’s journey starts with a hero who goes on an
+adventure or quest, learns a lesson, uses that knowledge to achieve victory,
+and then returns home transformed. This story structure is widely used in
+entertainment, so much so that the most common example of this structure
+is the plot for the movie Star Wars.
+
+The StoryBrand structure moves
+through seven steps: The hero (the customer) has a problem and meets a
+guide (you!), who gives the hero a plan and calls them to action. This action
+ends in success and helps the hero avoid failure. The thing I like the most is
+that this structure makes it completely clear that as a vendor, your role is to
+be a guide, helping the hero (the buyer) achieve success and avoid failure.
+
+When Does It Work Best?
+The hero’s journey is used when the primary goal is to entertain and engage
+your customer through a story. It’s a structure that works well for content
+like customer case studies, where your goal is to tell the story of a
+customer’s journey from having had a problem, to choosing you to solve
+that problem, to experiencing success afterward.
+
+What’s the Downside?
+“The plan” is focused on execution, not on how to decide what action to
+take. In Miller’s book, the hero (the customer) encounters the guide (you),
+who gives them a plan. One of the sample plans provided includes these
+three steps: 1) download the software, 2) integrate your database into the
+system, and 3) revolutionize your customer interaction. This is the answer
+to “How do I get started?,” not a plan to help a customer understand why to
+choose you. Prospects need help understanding their options and how to
+make a confident decision.
+The concept of alternatives is missing. The core of a good sales narrative is
+a rubric for helping a customer make choices. The hero’s journey structure
+doesn’t focus on the step that a prospect is primarily concerned with in a
+sales situation: “How do I confidently choose between seemingly similar
+options?”
+Although the narrative structures we’ve just explored may serve you well
+for recruitment, raising capital, or crafting a customer case study, they
+aren’t well suited to a sales situation. So, what should a narrative structure
+for selling look like?
+
+
+The Road
+to a Better
+Sales Pitch
+Structure
+
+Looking at the gaps in the other
+storytelling structures can teach us
+something about what is needed to
+build a great sales pitch.
+
+I inherited a sales pitch deck that had this structure:
+1
+It started with an “about us” slide that listed the year we were founded, the
+current number of employees, and the money we had raised.
+2
+Following that was a busy slide full of customer logos (affectionately
+referred to as “the NASCAR slide”).
+3
+We then moved to a “problem” slide, which stated the problem our product
+was designed to solve. We generally defined this problem at a high level,
+exactly the way every one of our competitors defined it.
+4
+Then came the demo, which was a product feature walkthrough. We showed
+the prospect how to log on and get started, walked them through the main
+menus, and showed how their common tasks would be completed. Most of
+the time was spent here.
+5
+We wrapped up with a high-level pricing slide.
+We never built a sales pitch deck from scratch. We modified pitches that
+seemed to have existed since the dawn of time itself. Nobody questioned
+the flow or structure of the pitch or the demo. We simply did it the way we
+always did it.
+
+What Happens to Positioning When
+a Prospect Moves from Marketing to Sales?
+
+As my career progressed, I became a VP of marketing, and I started to
+notice that although we obsessed over the story we were telling in our
+marketing campaigns and materials, when customers made it to a sales
+meeting, there was no storytelling or positioning happening at all. Our
+positioning defined how our product was special and different from
+anything else in the market, but our sales pitch rarely reflected that
+positioning. Once leads got passed to the sales team, they weren’t hearing
+that story. Instead, they were hit with a barrage of features and a bit of
+information about our company history. This seemed like an incredible
+missed opportunity to me, even if I wasn’t sure exactly what to do about it
+yet.
+
+Discovering the Magic of
+Pitching a Unique Point of View
+
+The most interesting thing to me about the IBM pitch structure was the way
+these pitches started. The conversation never began with a discussion about
+the company or the product. Instead, it always started with a discussion
+about IBM’s point of view on the market. Reps would talk about what IBM
+perceived to be important considerations for companies looking at any
+solution in the market. They would then discuss how different approaches
+to providing a solution stacked up. Reps were doing discovery at this step,
+but also giving the customers a big picture of the entire market and teaching
+them how to make informed choices. The sales reps were skillfully
+positioning our product in the minds of customers, relative to the
+competition, and that was winning us deals.
+
+“Stop selling.
+Start helping.”
+Zig Ziglar
+
+The
+Sales Pitch
+Structure
+
+The goal of a great sales pitch is to
+help customers understand all their
+choices, the trade-offs between each,
+and when to pick your solution.
+
+That means a great sales pitch should:
+1
+Help prospects understand the entire market, including other common
+alternatives beyond your product and the pros and cons of those alternatives
+mapped to their particular situation.
+2
+Accommodate the salesperson’s need to do in-depth discovery.
+3
+Help prospects clearly understand your differentiated value versus other
+alternatives and why the unique value only you can deliver is critically
+important.
+4
+Accommodate a product demonstration (should you choose to do one) as a
+natural part of the narrative flow of the pitch.
+5
+Include a clear call to action for what the prospect should do next.
+
+ 
+
+Figure 1
+To accomplish this, I’ve broken the sales pitch structure into two distinct
+phases: the setup and the follow-through.
+1
+The setup focuses on offering your insights about the market, competitive
+alternatives, and discovery.
+2
+The follow-through focuses on your solution for the customer or, more
+specifically, on the value that only your product can deliver, including a
+demo (if you want one), and ends with a call to action.
+At a high level, the sales pitch looks like this (see Figure 1).
+
+The Setup
+The setup is where you have a conversation with the prospect about the
+market. Specifically, this is when you teach prospects the market context
+they need to know to understand the importance of the value only you can
+deliver. It makes sense to do this before you talk about your differentiated
+value.
+The setup consists of three distinct components: Insight, Alternatives, and
+The Perfect World.
+1
+Insight: The insight frames the conversation by starting with what your
+experience has taught you about the customer’s situation, problems, and the
+solutions in the market. This critically important step points the customer
+toward what they need to know to understand why your differentiated value
+is important to them.
+2
+Alternatives: In this step, you discuss what alternative solutions exist in the
+market today, and the pros and cons of those alternatives for various
+customers. This is a conversational step, and where you will do discovery.
+The goal of this step is to help paint a picture of the market for prospects
+while simultaneously getting a better understanding of the prospect’s
+current situation.
+3
+The Perfect World: This step outlines the characteristics of a perfect
+solution for your target customers. To arrive here, you draw on the
+discussion about the alternatives in the previous step, as guided by the
+insight introduced in the first step.
+
+The Follow-Through
+At this point, your sales pitch will transition from the setup to the followthrough.
+The follow-through is focused primarily on exposing the value
+only your product can deliver to the prospect. This section has five distinct
+components.
+1
+The Introduction: You introduce the company and the product. This is how
+you will navigate the transition from the setup part of the sales pitch.
+Usually, this is also the place where you introduce your definition of the
+market category you position yourself in.
+2
+Differentiated Value: In this step, you cover the value that only your
+product can deliver for a specific customer and the features that enable that
+value, which is often (but not always) done with a demo. This step is the
+meatiest part of the sales pitch and where you will likely spend most of
+your time in a first call with a prospect.
+
+ 
+Figure 2
+3
+Proof: Now you need to show how you can deliver the value you say you
+can. This can take the form of case studies, awards, third-party validation,
+and other proof points.
+4
+Objections (optional): This is an optional step in the sales pitch where you
+explicitly handle common objection you believe are critical to address
+before the end of the meeting. This may range from concerns about how
+difficult it is to adopt the solution, integration, or pricing concerns.
+5
+The Ask: You finish the meeting by recommending a next step for the
+Prospect.
+
+
+Part 3
+
+A Great Sales
+Pitch Starts
+with Solid
+Positioning
+
+A good sales pitch doesn’t begin with
+a blank sheet of paper. You need to
+gather a distinct set of inputs before
+you start. A great sales pitch will be a
+story rooted in your positioning.
+Before you build a sales pitch, you need to review your positioning. When
+you think about your current positioning, you may or may not be happy with
+it. But your sales pitch will reflect your positioning, and as my university
+coding professor used to say, garbage in, garbage out.
+
+In marketing, positioning defines your differentiated value and the target
+buyer for your message. Your sales story should reflect that same narrative,
+so it makes sense that you should start with your positioning when
+constructing a sales pitch
+
+ 
+
+Figure 3
+The Five Components of Positioning
+1
+Competitive Alternatives: These are the alternative ways of solving the
+problem in the minds of customers. This could include whatever the status
+quo solution is. For B2B technology, that might include things like
+Microsoft Excel, manual processes, or “hire an intern to do it.”
+2
+Unique Capabilities: These are the capabilities of your offering that the
+alternatives do not have. They can be traditional features of a product, as
+well as capabilities of the company such as professional services offerings or
+specialized expertise.
+3
+Differentiated Value: This is the value your product enables for customers.
+This could be something like “helps customers save money by reducing
+development costs” or “speeds time to market by streamlining operations.”
+
+4
+Best-Fit Customers: This is the definition of a target account that is a good
+fit for your product. This usually includes firmographic information—for
+example, company size, revenue, number of employees—but it may also
+include other characteristics such as: the target account is already a
+Microsoft shop, or it has over one hundred gigabytes of internal data to be
+analyzed, or it has a distributed development team.
+5
+Market Category: The market category is the answer to the question, “What
+is it?” It’s the context within which you position your product and serves as a
+starting point for customers to understand what your product is all about.
+
+How the Positioning
+Components Work Together
+All these positioning component pieces have a relationship with each other.
+In a typical positioning exercise, you work your way through the component
+pieces in a particular order.
+1
+You start with listing the competitive alternatives, or what customers would
+do if your solution didn’t exist.
+2
+Once you have that list, your next question is, “What do we have that the
+alternatives do not?” The answers give you a list of differentiated or unique
+capabilities.
+3
+Then you can go down that list and ask, “So what for customers?” Put
+another way, “What is the value those capabilities enable for our buyers?”
+4
+Once you know what your differentiated value is, then you can figure out
+who your best-fit customers are. What are the characteristics of a target
+account that make them care a lot about the value only you can deliver?
+5
+In the final step, you identify your best market category. This is the context
+you position your product in so that your value is obvious to your target
+customers. This is the definition of the market you intend to win.
+
+All these components will be critical inputs to the sales pitch. Let’s look at
+an example of how this comes together.
+
+A great sales
+pitch starts
+with great
+positioning.
+
+Preparing Your
+Positioning
+before Building
+a Sales Pitch
+
+Since your positioning is a critical
+input, before starting the process to
+develop your sales pitch, you will
+want to document your positioning.
+
+What Are You Positioning and Pitching?
+If you are a single-product company, then the focus of the sales pitch will
+be your product. If your company has multiple products, then the focus of
+the pitch will depend on your sales process and what you usually try to sell
+first to a new account.
+
+Who Is Your Audience?
+When you are creating your positioning and building a sales pitch, you need
+to consider who you are aiming it at. In a typical B2B purchase decision,
+there are usually between five and eight people involved in that decision.
+So, do you need different positioning and a different pitch for each of them?
+The key is to figure out who is your champion.
+In a typical technology purchase, you will encounter people in the
+following roles at some point in the purchase process:
+•
+The Economic Buyer. This is the person who holds the budget and often has
+the ultimate approval over whether or not the purchase gets made.
+•
+The Champion. The economic buyer is not always the person tasked with
+figuring out what product to buy. That job is often delegated to a person
+who is tasked with making a shortlist, doing an evaluation, getting buy-in
+from other stakeholders, and making a purchase recommendation to the
+economic buyer.
+
+•
+End Users. End users will often be consulted in a purchase and may be
+involved in a proof of concept. They may not have the power to make a
+purchase decision but frequently have the power to stop a deal from
+happening if they don’t like the product the champion is recommending.
+They are also critically important post-sale, particularly if you have a
+recurring revenue model.
+•
+IT Department. Sometimes you are selling directly to the IT department, but
+often the budget for a technology purchase is held by a line of business (for
+example, sales, marketing, HR), and the evaluation happens primarily by
+those non-IT groups. In those cases, the IT department will often need to
+approve any technology purchase. Much like end users, if they are not the
+budget holders for the purchase, they don’t get to make the final decision of
+what product to purchase, but they can stop a deal from happening if it
+doesn’t meet their requirements for interoperability, manageability, or
+security, for example.
+•
+Legal and Purchasing. If you sell to larger organizations, purchasing and
+legal teams might get involved in the latter stages of a deal. They don’t
+usually get involved actively in the selection of a solution, but like other
+groups listed above, they do have the power to stop a purchase if it doesn’t
+meet the company’s legal or supplier agreement requirements.
+Sell to Your Champion
+
+In the early stages of a purchase process, the champion matters much more
+than any other person. It’s the champion who is doing the research to
+determine what the requirements are and making a shortlist. They are
+frequently the person sitting across from you in a first sales call. If you
+can’t get the champion interested, you don’t even get a chance to worry
+about all the other stakeholders because the champion is going to eliminate
+you from the process before they get those other groups involved.
+
+“How do you beat
+Bobby Fischer?
+You play him at any
+game but chess.”
+Warren Buffett
+
+That doesn’t mean that the other stakeholders aren’t important. As I
+mentioned, any one of those stakeholder groups holds the power to kill a
+sale at different points in the purchase process. You will need to worry
+about them, but that worry comes later. Once the champion has decided to
+consider your product as a potential solution, then a key part of your job is
+to understand the potential objections of all the other stakeholders and to
+arm the champion with the information to handle those objections.
+
+Determining and Documenting
+the Positioning Components
+Once you are clear on what you are positioning and who the pitch is for,
+you can move on to documenting the component pieces of your positioning.
+These will be the key inputs to your sales pitch.
+
+Competitive Alternatives
+There are two main types of competitive alternatives: status quo and direct.
+As the name suggests, status quo alternatives are the things your current
+customers were doing before they adopted your product. That could include
+using a spreadsheet, hiring an intern to do it, or even doing it manually with
+a pen and paper. This could also include using a legacy solution or
+functionality that is included in a software package, such as a CRM or
+accounting system, to get the job done. Direct alternatives are products that
+buyers put on a shortlist of solutions during a purchase process.
+
+You don’t need to position against competitors your prospects don’t know
+about. You may know of companies that could compete against you, but the
+sales department never sees them land on a shortlist. If so, for now you
+don’t have to worry about positioning against them. Although your product
+and strategy teams might want to keep an eye on these competitors as future
+threats, your marketing and sales teams can ignore them for now. If at some
+point you see these competitors show up in actual deals, you can adjust
+your positioning to handle them at that time.
+Unique Capabilities
+Once you have listed your true competitive alternatives, you can create a
+list of capabilities you have that the competitors don’t. Capabilities include
+features of your product, but might also include capabilities of the company,
+such as your pricing model, professional services, or integration with other
+products in your portfolio. In the above LevelJump example, you can see
+that being built on Salesforce is a differentiated capability.
+
+Differentiated
+capabilities might not be differentiated when compared to every alternative,
+and that’s okay. Simply make a note of which competitor doesn’t have that
+capability and move on.
+
+Differentiated Value
+The most critical component of your positioning is the value that only your
+product provides. Customers don’t care that much about features; they care
+about what those features can enable for their business
+As you move down your list, you will see value themes start to emerge, and
+you can cluster groups of features under the value theme they enable. That’s
+a good thing. Customers can’t digest and remember dozens of value points,
+so try to keep the number of value themes down to three or fewer.
+
+Your interpretation of your unique value is deeply informed by what you
+know about the good customers you already have, including their business
+situation, the job they want to get done with your product, and their
+business priorities. The more you understand that, the better job you will do
+in translating your unique features to value.
+Best-Fit Customers
+Typically, the characteristics of a target account will be a combination of
+firmographic characteristics of the company (for example, number of
+employees, revenue), but also characteristics that are more specific to the
+type of solution you are selling. These could include things like the number
+of employees in a particular department, or other technology platforms the
+company has already adopted, such as Amazon Web Services (AWS),
+Salesforce, or Microsoft Office.
+
+Market Category
+You can think of the market category as the context you position your
+product in. The job of the market category is to serve as a starting point for
+prospects who don’t know too much about your product. It is the simplified
+answer to the question, “What the heck is this thing?”
+
+An effective sales
+pitch tells the story
+of the business value
+only you can deliver.
+
+A good way to assess your market category is to look at your unique value
+and best-fit customers and ask, “Does this market category point best-fit
+customers toward my value or does it point them somewhere else?” In the
+case of LevelJump, we can see that sales enablement works for the
+company as a market category because it clearly points the prospect to the
+product’s value (sales training that drives improved revenue).
+
+Capture and Review Your Positioning
+I like to recommend that teams document their positioning in a long-form
+file, where you can also capture relevant details about each component.
+Start-ups I work with like to summarize their positioning in a one-page
+format. 
+
+What If Your Product Hasn’t Launched Yet?
+If your product hasn’t launched yet or is in the early stages with only a few
+paying customers, it’s likely you won’t know precisely what your
+positioning is. If that is the case, you can still work through the process of
+documenting your positioning and building a sales pitch to reflect it.
+However, that positioning should be treated like a “positioning thesis.”
+Your first wave of customers will help you validate your thesis. In my
+experience, you should expect your positioning to shift a lot as you learn
+more about which customers love your product and why.
+
+Positioning Will Change Over Time
+Positioning is not a “set it and forget it” exercise. Your product’s
+capabilities and its value will change over time. Your competitors are also
+upgrading their products, and things that are differentiators for you today
+might not be in the future. New competitors may enter the market, and
+others may exit. Customer preferences and spending priorities will also
+change over time.
+
+Mapping Positioning
+Components to the Sales Pitch
+
+1
+Insight: This step in the sales pitch comes from a combination of your
+differentiated value and your best-fit customers. Insight represents the
+critical concepts your best-fit customers need to be aware of to understand
+why your unique value matters.
+2
+Alternatives: This step maps directly to the competitive alternatives you
+have captured in your positioning.
+3
+The Perfect World: The Perfect World step maps to your differentiated
+value. You can think of this step as a way of defining purchase criteria for
+the customers you sell to.
+4
+The Introduction: Here, you introduce the product using the market
+category from your positioning.
+5
+Differentiated Value: This maps directly to the differentiated value and
+unique capabilities from your positioning. This step in the sales pitch is all
+about demonstrating the value that only you can deliver and showing the
+features that enable that value.
+6
+Proof: This is the proof that you can deliver on the value you say you can.
+7–8
+Objections and The Ask: These two steps do not come from your
+positioning, but rather from your own sales experience and process.
+Next, I will dive into each part of the pitch, including the details of how to
+map the components of your positioning to each step.
+
+
+Part – 4
+
+Constructing
+the Sales Pitch
+Storyboard
+
+Now that we have a structure and we
+understand the component pieces
+of positioning we need as inputs into
+the sales pitch, it’s time to work on
+building a storyboard for the pitch.
+
+Bringing a Team Together to Work on the Pitch
+
+One big decision you’ll need to make is whom to involve in building the
+sales pitch. I am a big believer in cross-functional team efforts for
+positioning and pitch development. In my experience, most weak
+positioning comes from misalignment across the team. Often, marketing
+and sales don’t totally agree on what the differentiated value is, or product
+and sales don’t see eye to eye on which competitors you need to position
+against. Founders can sometimes be focused so much on the future vision of
+the company that they lose sight of how to position the product as it exists
+today. Bringing the team together ensures that you are getting everyone’s
+expertise and opinions out on the table, and also that everyone understands
+the positioning and pitch you end up with.
+When I work with teams on their positioning, I like to make sure there is
+representation from sales, marketing, product, and customer success in the
+room, in addition to the founders/CEO and anyone else on the executive
+team who has a strong opinion about how the company wins in the market.
+
+I often have this larger group develop a narrative
+storyboard to start. Once you agree on the pitch at a storyboard level, a
+small group, usually consisting of folks from the sales and marketing teams,
+can work to translate that storyboard into an actual sales pitch with a
+branded deck, a demo, and a script.
+
+Build a Storyboard First
+I often find that teams get hung up on a particular part of a sales pitch while
+building it. In my opinion, it’s much more important that you get the flow
+of the sales pitch right before dive into the details of the exact words or
+graphics you need on particular slides. Similarly, I think it’s better to
+determine where the demo should fit and what you want that demo to
+convey conceptually first. You can worry about the specifics of the demo
+script later.
+
+Now, let’s jump into the starting component of the sales pitch: Insight.
+
+Step 1
+Insight
+
+Earlier I talked about sales pitch
+frameworks used by other companies.
+One of the things that sets this sales
+pitch structure apart from those is the
+way thepitch starts.
+
+Starting with a generic “problem” statement or visible market trend made it
+difficult for us to differentiate our product from others that claimed to solve
+the same problem or responded to the same trend. Jumping immediately to
+a product demo or simply talking about our company left us no room to
+position ourselves relative to other alternatives in the market. Starting with
+open questions and discovery didn’t give us a structured method to teach
+buyers a way to think about the market.
+
+You want to start a sales conversation in a way that sets up your
+differentiated value right from the start. The best way to do that is to start
+with the market insight that makes your differentiated value important to
+customers.
+I’ve repeatedly seen how powerful this opening style can be. The fantastic
+thing about leading with insight is that it:
+
+“A lot of times,
+people don’t
+know what they
+want until you
+show it to them.”
+Steve Jobs
+
+1
+Immediately establishes your credibility as experienced and knowledgeable
+about the space.
+2
+Frames the customer’s situation in a way that orients the discussion toward
+your differentiated value (and nobody else’s), right from the beginning.
+3
+Sets up a discussion with the prospect about the overall market. Starting
+with market insight makes it easy to transition to talking about the other
+approaches to solving the problem and space to do discovery.
+Your insight is the key element a prospect needs to get to understand the
+importance of your differentiated value. One way to think about insight is to
+view it as “the problem inside the problem.”
+
+Problems Aren’t Unique, Insights Are
+
+LevelJump is in the sales enablement market. Solutions in that market are
+focused on helping sales teams train salespeople. So how should
+LevelJump’s insight be framed?
+The simplest way to define the prospect’s problem is, “How do we ensure
+that salespeople are effectively trained?” But every solution in the market
+solves that problem, including LevelJump. We can reverse-engineer
+LevelJump’s insight into the market by starting with their differentiated
+value.
+
+LevelJump is the only sales enablement solution that is built on top of
+Salesforce. That deeper level of integration allows sales enablement
+professionals to combine their sales training data with sales performance
+data. The differentiated value that LevelJump enables for its customers is
+that it can track the impact of sales training on sales results, giving sales
+enablement professionals a way to see what’s working and what isn’t.
+LevelJump gives the sales enablement team a way to increase revenue
+through improved sales rep ramp times and to prove the impact of their
+work. Although other sales enablement solutions can help solve the problem
+of training sales reps, no other solution can provide a way to measure and
+improve the impact of that training.
+
+
+So what is LevelJump’s unique insight into the market? What is it that
+prospects need to know to understand how important their unique value is
+to them? For prospects to understand LevelJump’s unique value, they need
+to understand that sales enablement is about more than just getting the reps
+trained and tracking the training. We should be able to measure the success
+of our sales enablement programs with an improvement of specific sales
+metrics—for example, the time to first call, time to first deal, and time to
+reach quota. LevelJump is the only company on the market with this
+particular insight or point of view on the real underlying problem that needs
+to be solved with sales enablement.
+
+Your Insight Should Point to Your Value
+If done correctly, your insight into the market should direct the conversation
+toward your value from the onset.
+
+Rep: Hey, thanks for taking the time today. Before we jump into the demo, I
+wanted to chat a little about how we think about sales enablement. In the
+companies we have worked with, we’ve seen that they are investing in sales
+enablement because it can really make an impact on sales performance and
+revenue. Every day your reps aren’t making quota costs you money. What
+metrics do you folks use to track enablement?
+Head of sales enablement: At the beginning, we were just using a shared
+drive, and that made it hard to track anything. More recently, we’ve been
+looking at using an LMS [learning management system] so we could start
+tracking which reps have done which training. We’ve never really thought
+about how to bring sales metrics into it.
+
+Rep: Many of the companies we’ve worked with have an LMS—it’s the
+perfect tool for corporate training that you need to ensure gets done, like
+safety or compliance training. For sales training, however, an LMS doesn’t
+give you an easy way to track if your sales enablement programs are
+improving time to first deal or time to make quota. Folks that run sales
+enablement often struggle to prove the impact of the programs they are
+developing. How do you do that for your exec team today?
+Head of sales enablement: We really struggle with that, to be honest. I
+would love a way to show our impact.
+
+Rep: Many of the companies we’ve worked with have an LMS—it’s the
+perfect tool for corporate training that you need to ensure gets done, like
+safety or compliance training. For sales training, however, an LMS doesn’t
+give you an easy way to track if your sales enablement programs are
+improving time to first deal or time to make quota. Folks that run sales
+enablement often struggle to prove the impact of the programs they are
+developing. How do you do that for your exec team today?
+Head of sales enablement: We really struggle with that, to be honest. I
+would love a way to show our impact.
+
+How Do You Determine Your Insight?
+I believe that every successful company has a unique point of view on the
+market—they just aren’t always great at articulating it. Sometimes you
+know exactly what your unique insight is because your product was
+originally designed around it. Other companies develop their insight as they
+sell more product and gradually gain a better understanding of their
+customers, their situation, and the value they can bring to the table that
+other alternative solutions cannot.
+
+In both cases, there may be individual folks on the team who can speak to
+the company’s point of view, but often, sales and marketing teams fall into
+the trap of focusing on “the problem” or market trends because they’re
+more obvious and therefore easier to identify. The words for these problems
+and trends already exist in the market, making it easy to write and talk
+about them.
+
+Consider the Point of View of
+Your Best-Fit Customers
+One way of thinking about your unique market insight is to ask this
+question: “What do your best-fit prospects need to know to understand why
+your unique value is important to them?”
+
+Your unique insight
+into the market is what
+leads you to build a
+product that is different
+and better than the
+alternatives.
+
+What the buyer should ask is, “How do I improve the sales results for a new
+rep?” Or, even more specifically, “How do we get a new rep ramped up
+quicker so they can get a first deal faster and make quota faster?”
+LevelJump’s unique insight into the market is that a company realizes the
+value of sales onboarding only if it can measure the impact of it with sales
+metrics.
+And that’s why LevelJump’s sales pitch starts with an implied question:
+“Why is sales onboarding important?” The answer is that the shorter the
+sales ramp time, the more revenue the company makes. Starting the
+narrative here accomplishes everything the company wants in the first step
+of a pitch:
+1
+It orients the prospect toward LevelJump’s unique value (sales enablement
+that improves sales results) from the start of the conversation.
+2
+The insight is unique to LevelJump: none of its competitors look at the
+market in this way, paving a path for a clearly differentiated narrative.
+3
+The insight is clear and easy to understand for a prospect that is a good fit
+for LevelJump (the head of sales enablement at a company that is
+onboarding a lot of new reps).
+Practical Tips
+The key to this step is to frame the discussion that comes after it.
+Sometimes, you will want to follow up your insight with industry research
+that proves that your insight is true.
+Sometimes, the insight will seem like an obvious statement of fact, and
+that’s okay.
+My overall recommendation for this step is that you do not spend too much
+time on it. In many companies I have worked with, one slide (if you want to
+use slides) and a minute or two of discussion is more than enough
+
+Once you have framed the discussion around your insight, your next move
+is to paint a picture of the entire market and the alternative approaches a
+company may choose to take.
+
+Step 2
+Alternatives
+
+Many companies avoid talking about
+competitors because they don’t
+want to be seen as bad-mouthing the
+competition, which only makes them
+look bad.
+
+Most companies also feel that no buyer would believe their opinion about a competitor because they are inherently
+biased. But to make a good choice, buyers need to understand the entire market and the pros and cons of different
+approaches to solving their problem.
+Think of your competition as “approaches to the problem” rather than individual companies. The easiest way for
+prospects to make sense of a market is to stop thinking about it as an unorganized list of different independent
+vendors and products and start thinking of it as groups of vendors that share a particular approach to the problem.
+In a good sales pitch, you are contrasting the different approaches to the problem, rather than trying to compare
+individual products.
+How Should Your Customers
+Think about Their Options?
+
+The biggest difference between a considered and an unconsidered purchase is that in an unconsidered purchase,
+buyers don’t spend much time, if any, considering their options.
+But in a considered purchase, they can spend days, or months, figuring out what their options are and how to make
+a choice. So what’s going on in that time frame? The buyer is working through a purchase process to:
+•
+Clarify the problem. Why do we need a new solution? What does success look like?
+•
+Build a list of solution requirements. What is important for us in a solution? What isn’t important? What is
+possible and what isn’t with the current technology on the market?
+
+•
+Explore multiple vendors. Who should be on the shortlist and how do I evaluate these vendors?
+This step in the positioning narrative is all about helping customers make sense of their alternatives and the tradeoffs
+associated with each. New start-ups often fall into a common trap of believing that because their solution is
+new or located in an emerging market space, there is no competition. But there is always an alternative way to
+accomplish what your solution does, even if that alternative is manual processes and Excel spreadsheets. The key
+here is to understand what a customer sees as an alternative to your solution, not what you would necessarily
+consider a direct competitor.
+
+Position Yourself against the Fearsome Status Quo
+Sales teams in software companies tend to describe losing to a status quo solution as losing to “no decision,” but
+that’s dangerous thinking for sales and marketing teams. A decision was made, whether it was to stick with what
+they were doing longer term or, as happens more often, to delay making a decision altogether.
+You need to view the customer’s option to stick with the status quo as a competitive alternative, even if you don’t
+view the solution they are using as direct competition.
+Consider Direct Competitors,
+but Only if They Land on a Prospect’s Shortlist
+Besides the status quo alternative, you also need to understand what other solutions are landing on a buyer’s
+shortlist. Most business buyers don’t simply select the first solution they come across. They do their homework
+and narrow down a shortlist of alternatives to examine more closely. Just as you need to look at the status quo the
+way a customer does, you also need to look at shortlist competitors from the customer’s point of view.
+At this step of the sales pitch, you will need to stay rooted in the facts of the market as it exists today and in the
+near future. Although your product and strategy teams might be tracking dozens of potential “horizon” competitors
+(competitors you may have in the future), you don’t need to position against anything a customer does not
+currently consider. There is also a real danger associated with giving prospects new approaches to think about.
+They might feel they need to go back and research these newly introduced options, further delaying a purchase
+decision. Companies that orient their marketing and sales stories too closely around a future vision of the market
+are only giving buyers more reasons to do what they are most inclined to do—delay making any purchase at all.
+
+Group Competitors into “Approaches”
+Your goal at this step in the sales pitch is to help the buyer make sense of their options. To do that, you need to
+group all the alternatives in the market into different “approaches” to solving the problem. The easiest way to
+make sense of a market is to think of it as groups of vendors that share a particular approach to the job they satisfy
+
+We don’t compete
+with companies or
+products. We compete
+with approaches.
+Grouping Competitors Helps
+Your Customers Understand Your Value
+Your competitive alternatives might be broken up into “manual solutions” such as spreadsheets and Word
+documents or other ways of manually tracking who is working on what; “easy to use, all-purpose project
+management tools” like Trello or Basecamp; and “enterprise project management tools” such as Jira or Atlassian.
+Breaking up the market in this way highlights that there are tools more suitable to smaller businesses and some
+more suitable for larger businesses. In dividing it up this way, we are helping best-fit buyers (multi-project
+agencies of fewer than thirty employees) understand that an “all-purpose tool” might be lacking features they
+might specifically require, but similarly, an “enterprise tool” would be too complex and expensive for a company
+of their size. This sets up a conversation with a prospect in which you can easily highlight the gap you fill in the market.
+
+Should You Call Out Competitors by Name?
+This is your decision to make, but I generally prefer not to name competitors unless we are almost guaranteed that
+the prospect has already looked at them as a potential solution. We don’t want to give buyers a reason to go away
+and research a new set of competitors. As part of the discovery the rep is doing during this step in the sales pitch,
+they can easily ask the prospect what other solutions they are considering, and then categorize them. That said, if
+there is a competitor that is seen in nearly every deal, I wouldn’t hesitate to explicitly name the elephant in the
+room.
+It’s Okay to Position a Competitor in a
+Way They Would Disagree with as Long as
+You Believe That It’s Objectively True
+
+When you group these competitors, it’s important to do so according to your point of view on how they should be
+categorized. This may not be the way the competitors categorize themselves, and it may also conflict with how
+some industry analysts or other third parties categorize them. Often, competitors are exaggerating their capabilities
+in certain ways or marketing them in a way that is misleading for customers (either deliberately or not).
+This is your opportunity to educate your prospects about where you believe your competitors really land in the
+market after you strip away all the marketing buzzwords and subterfuge. However, this does not give you a license
+to lie. At this step, it is critical to present your case as objectively as possible. Your role is to be an informed guide
+—one who has the customer’s best interests at heart. Nothing will destroy a customer’s trust in your advice faster
+than catching you out in a lie.
+
+Discovery is
+a conversation,
+not a lecture.
+
+Outline the Pros and Cons of Each
+Alternative for Different Customers
+Once you have categorized the alternative approaches, you need to outline the pros and cons of each alternative for
+different types of customers. For our project management tool example, that might look something like this:
+
+ 
+
+At this point, you have painted a picture of the entire market for the prospect. You can now have a clear
+conversation with the customer about the different approaches available to them and why they may or may not
+want to take each approach.
+The pros and cons of each alternative approach can be crafted with a qualified prospect in mind. You generally
+already know something about the customer’s current situation because they have already been qualified. Since the
+key value proposition is around planning resourcing across multiple projects, prospects who don’t need that would
+already be disqualified. Similarly, larger companies that might want an “enterprise” solution would also be
+disqualified.
+
+This Is a Discovery
+Conversation, Not a Lecture
+The Alternatives step is where you want to do discovery with the client. This discovery should happen in the form
+of a conversation with the prospect rather than a lecture from the sales rep.
+
+A common mistake inexperienced sellers make in discovery is asking questions about the customer’s pain and
+problems with the expectation that prospects already know exactly what they are looking for. As I’ve said earlier,
+many buyers have never purchased a product like yours before. Often, they are not entirely sure what their
+purchase criteria are or should be, and they are still learning what is and isn’t possible with the current solutions on
+the market. They understand their immediate problem, but there may be dimensions to the problem they haven’t
+thought about yet. A salesperson quizzing a buyer on what exactly they’re looking for might, at best, result in the
+buyer giving some fuzzy answers to try to move the discussion along. At worst, this kind of questioning could
+leave the buyer feeling annoyed and worried that the sales rep doesn’t know any more about the market than they
+do.
+Instead, you want to use this step in the narrative to have a back-and-forth discovery conversation in which you are
+learning about the customer’s situation, but you are also teaching the customer about the market. For example, the
+conversation could potentially go like this:
+Rep: We work with customer software development shops like yours that are looking for a new way to manage
+projects and resources across projects. Often, we see companies like yours picking one of these three categories of
+solutions. I understand you folks have been tracking your projects manually. How’s that working out for you?
+Prospect: We designed a set of templates in Excel and have been tracking projects like that since we started the
+business. Lately, we have seen some growth and it’s become a bit more complex to get a handle on who is working
+on what.
+Rep: We hear this a lot. Most of the companies that have adopted our tool have outgrown manual solutions. The
+project management space is really crowded, but we find most tools can be described as either easy-to-use allpurpose
+project management or more enterprise-oriented tools, like Jira. Have you folks looked at any other
+solutions so far?
+Prospect: Well, Jira would be overkill for us. We have looked at Trello and we love the simplicity of what they do.
+Rep: Trello is a great product and certainly easy to use. Have you looked at the resource planning capabilities of
+Trello? We have found that most tools like Trello weren’t designed with agencies in mind. They typically don’t
+support views and analysis that cross multiple projects, something that is critical to the agency customers that we
+work with.
+Prospect: We haven’t seen much in their tool that would help us with that, so, yes, that does appear to be a gap.
+This step in the sales pitch should really be a dialogue with the customer. Combined with actively teaching the
+prospect the pros and cons of other alternatives, it will include discovery questions such as: How are you handling
+this today? How is that approach working for you? What other solutions are you looking at?
+
+Practical Tips
+People often ask me how the Alternatives step should look if they are using slides. Should this be illustrated with a
+picture? A table? Something else? I have seen companies do this step in several different ways. Some use a table
+like the one I used above. Some draw a picture with the different alternatives mapped onto a four-by-four grid. I
+have also seen many companies do this step without a slide at all; they simply have a lightly scripted conversation.
+Personally, I like a table, but I keep the number of words to a minimum so that it is more of a conversation guide
+than something a rep might be tempted to read.
+
+As with the previous step, I also would caution you to be careful not to spend too much time here. It’s critical to
+have the conversation, but the goal here is to paint a picture of the market for the prospect, help them understand
+the pros and cons of the different approaches while simultaneously getting your discovery questions answered, and
+then move on.
+
+
+Step 3
+The Perfect
+World
+The purpose of this step in the sales
+pitch is to clearly state what you
+believe the purchase criteria should
+be for a solution, assuming the buyer
+is a best-fit customer and they agree
+with your point of view.
+
+Getting Aligned on Your
+Point of View on the Market
+The goal of this step is to ensure the prospect understands and agrees with
+your point of view on what is and isn’t important for a buyer like them. You
+do this by reiterating the insight you shared in Step 1 and the conclusions
+you can draw from the pros and cons of the alternative solutions you
+discussed in Step 2. If you continue with the example from the previous
+chapter, the conversation at this step would go something like this:
+Rep: We know that effective resource planning is incredibly important for
+agencies. In a perfect world, you would have a project management tool that
+•
+is as easy to use as a low-end, all-purpose tool like Trello,
+•
+but is designed to help you manage a growing team across a growing
+number of projects,
+•
+all without the cost or complexity of traditional enterprise project
+management tools.
+Right?
+
+That “right?” from the sales rep is a critical turning point in this pitch. It
+goes one of two ways now: 1) The customer doesn’t agree, which generally
+means they have disqualified themselves. If they don’t see your point of
+view as critically important to them, then your unique value simply isn’t
+going to resonate, and essentially you have nothing to sell them. Or, 2) the
+customer responds with, “Yep, you’re right,” and you have already done the
+hard work of making the sale. The customer has agreed that their purchase
+criteria should look like the above list. They have chosen the value only you
+can deliver. Now all that is left to do is show them how your solution
+delivers it. Most importantly, if the prospect agrees with you at this point,
+they have also agreed that the alternatives can’t meet their needs. The deal is
+yours to lose from this point forward.
+
+Practical Tips
+In this step, you are making sure the prospect agrees with your point of view
+on the world. If it is clear the customer is with you, then there is no need to
+linger here. Simply move on to the next step. Overall, reps should move
+through the first three steps of the sales pitch—Insight, Alternatives, and The
+Perfect World—fairly quickly. For many companies I have worked with, the
+setup part of a first call is done in around five to ten minutes, or less if the
+first call is scheduled for less than an hour. A great setup is setting the
+context for your differentiated value. If you are taking too long to get to the
+value step, you risk losing the customer’s interest before you have arrived at
+the meat of the pitch.
+
+
+
+Step 4
+The Introduction
+
+Now you are ready to switch your
+focus from the market to your
+solution. The first step is to introduce
+the company and the solution.
+
+If you are a multi-product company, this is your chance to position your
+entire company, the products you offer, and the particular product that this
+pitch is focused on (assuming there is only one product that is the focus of
+this pitch). If you are a single-product company, then this is a simple
+introduction to the product
+The structure of your introduction in the pitch will depend on your specific
+sales strategy. For single-product start-ups, this step is an introduction to the
+product at a high level. Often, this can be done by introducing the market
+category and briefly outlining what your product is designed to do. Multiproduct
+companies will often introduce everything the company can do and
+explain how this particular product fits in their portfolio.
+In this introduction, a diagram is a common tool that either illustrates the
+component pieces of your solution or shows how your solution might fit
+into the prospect’s existing technology stack. There are three common
+diagrams I see used at this step: the family diagram, the platform diagram,
+and the “marketecture” diagram.
+
+
+
+The family diagram: For multi-product companies, the product family
+diagram is a clear and easy way to describe all the products in the family
+and how they fit together.
+The platform diagram: For companies that sell a platform, a diagram can be
+a concise way to show prospects the range of functionality that is included
+as part of the platform. Components might be available separately or they
+might be included. Sometimes, you will want to expose packaging options
+in the diagram. For example, if there are add-on components that customers
+don’t want and worry they will be forced to pay for, it could make sense in
+the diagram to explicitly signal that these components are entirely optional.
+Other times, you may want to show the full spectrum of functionality and
+leave the packaging and pricing discussions for later. For example, if the
+ideal combination of options is dependent on understanding a customer’s
+needs first, you would want to expose everything in the diagram and leave
+the discussion of the precise configuration until later in the sales process.
+The “marketecture” diagram: For certain types of products, particularly
+those with technical buyers or infrastructure products (such as data,
+security, monitoring, and networking), it’s often important to illustrate how
+your solutions fit in with everything else the buyer already has. Unlike a
+technical and detailed architecture diagram, a “marketecture” diagram gives
+buyers enough information to understand the major components of the
+system and how those components interface or interact with each other. The
+marketecture diagram should be easy for a sales rep to explain and a buyer
+to understand. Done well, a good marketecture diagram clearly shows
+which solutions your product interacts with and which it may replace.
+
+
+“Proactive guidance
+has a demonstrably
+positive effect on
+win rates.”
+Matthew Dixon & Brent Adamson
+
+Practical Tips
+Orient the prospect quickly around what you are and what you do, but then
+move on. The next step dives deeper into the value you deliver, and you
+will want to spend the bulk of your time on this step in the sales pitch.
+
+Step 5
+Differentiated
+Value
+
+Helping customers understand the
+value only you can deliver should be
+the centerpiece of everything you do
+in marketing and sales. Value is why
+customers buy your product.
+
+Customers don’t care about your features or capabilities, but they do care
+about what those features can do for their business. And that’s why the
+Differentiated Value step should be where you spend the most time in a first
+sales call.
+If you have done your job well in previous steps, you have already helped
+the buyer understand why this value is important. Now, your main goal is to
+demonstrate how you deliver that value to your prospect.
+Many companies choose to do this step using a scripted demo with slides.
+Some use a demo only and others will only use slides. I’ve seen companies
+do an excellent job at this step in each of those ways. But when you are
+working through how you want to do this step, there are some key points
+you’ll need to consider.
+
+Demo and Slides
+Many companies I have worked with start the Differentiated Value step with
+a slide that introduces the value themes. Then they move to a detailed demo
+that walks through the key features that support each theme, and then move
+back to the slide to reiterate the themes before moving to the next step.
+
+I like this approach because it helps you focus on the value themes and
+remember them as key takeaways. If you choose to go this route, I
+encourage you to keep the text on the slides to a minimum and resist the
+urge to list every feature. Remember, the point of the Differentiated Value
+step is to demonstrate how your features deliver the value. But the most
+important thing you want the prospect to remember at the end of the step is
+the value—not the features.
+
+If one or more of your value themes don’t lend themselves to a demo, using
+a mix of slides and a demo works for this step. Value themes related to
+support/services, pricing models, or packaging would fall into this category.
+You can work those into the script or cover them in a slide.
+
+Demo Only
+In many cases, the best way to describe how a product does a particular
+thing is to show how it works. For example, if you have a value theme
+related to the user experience of your product, your reps could attempt to
+describe it, but it will be more impactful to show it in action. The way the
+demo is organized is key.
+
+This is not a product walkthrough. You should not be highlighting every
+feature of the product. The goal is to reinforce your differentiated value by
+showing how the product delivers that. If you have three distinct value
+themes, the demo should be organized around them. The script for the demo
+should be organized along these lines:
+•
+We deliver a combination of Value A, Value B, and Value C for our
+customers.
+•
+Let’s start with Value A: here are the features that deliver that.
+•
+Now let’s move to Value B: here are the features that deliver that.
+•
+Lastly, we have Value C: here’s how we do that.
+The key here is that the demo is organized to reinforce your differentiated
+value and make that real for prospects by showing them how you deliver it.
+A great product
+demo puts features
+in the context of the
+value they enable.
+
+Slides Only
+It’s not unusual, especially for complex enterprise software, to have a first
+call that does not include a demo. For products like a data warehouse, cloud
+infrastructure software, and security software, often there isn’t much to
+demonstrate. And even if you did a demo, it wouldn’t mean much if it was
+not highly customized. You have a few choices in this situation.
+Sometimes, it makes sense to create an example of what a customer
+implementation might look like and use that in parts of the Differentiated
+Value step to illustrate particular capabilities. Be sure to highlight what is
+and isn’t included in your product. I’ve seen companies get in trouble at this
+stage because the customer gets the impression that these customizations are
+included in the base product.
+
+Often, capabilities like these aren’t differentiating because any vendor
+wishing to sell to this category of customers would have to meet this
+functionality requirement. But even though your product is SOC 2 certified,
+which is important for a customer to know, it’s not a differentiated value.
+Still, you don’t want the customer to exclude you from the running because
+they assume you don’t have that capability
+
+April says: The pitch starts with Funnel’s market insight. The key to
+recognizing Funnel’s value is understanding that data is critical to a
+marketing team’s success, yet teams struggle to collect and use their
+data.
+
+Great digital marketing is all about data. We depend on deeply
+understanding marketing data to optimize our digital marketing spend. But
+gathering data across channels, normalizing it, and producing metrics the
+business needs to analyze and improve performance is difficult, timeconsuming,
+and error-prone.
+April says: Next, Funnel needs to map the alternatives and illustrate the
+gaps.
+April says: Now Funnel can define the characteristics of a “perfect”
+solution—in this case, they are defining a marketing data hub and the
+value companies could get from having one.
+
+If we believe that marketing’s success relies on our ability to analyze data,
+we will conclude that marketing needs a central data hub. One that:
+•
+Easily pulls accurate data from any source
+•
+Stores all the data in a central place that marketing owns and can trust (that
+the data is accurate and up to date)
+•
+Prepares the data for analysis automatically
+•
+Makes it easy to share data to analyze it any way marketing needs to—with
+spreadsheets, data warehouses, reporting and analytics tools, etc.
+April says: Next is the meat of the pitch, Funnel’s value.
+Funnel is a marketing hub for data designed to help marketing teams get
+control over their data to improve performance.
+The value Funnel delivers:
+•
+Brings all marketing data together from any source. The rep can demo how,
+in a few clicks, Funnel can connect to data from any source without code.
+•
+Stores data in a central hub, giving marketing teams control over the data
+they need to improve digital marketing performance. The rep can show the
+data hub, including the raw data, transformed data, and data logic.
+•
+Automatically makes siloed raw data business-ready. The rep can show how
+automatic mapping works and how users can control how data is mapped
+without code.
+•
+Easily makes marketing data available wherever it is needed. The rep can
+demonstrate connecting a business intelligence (BI) tool to Funnel in a few
+clicks.
+April says: The pitch then winds up with a case study as proof that
+Funnel can deliver the value points covered in the value section, and
+then ends by getting an agreement with the prospect to move forward to
+the next stage of their sales process.
+
+Step 6
+Proof
+
+Since the dawn of mass marketing,
+vendors have been spinning, stretching,
+and just plain ignoring the truth.
+
+Buyers have learned that just because the company says it can do something
+does not make it so. So, if you are going to make a claim of value, you will
+need to back it up with some proof.
+Proof can take many different forms. When I am working with start-ups on
+their sales pitches, they often assume that “proof” must be empirical, or
+something to which they can assign concrete numbers. Claims like “30
+percent faster,” or “save 10 hours per week on administration tasks,” or “99
+percent uptime” are examples of empirical proof that you may have
+validated either across a large group of customers or with a third party.
+These are great proof points, and if you have them, you should consider
+using them at this step.
+
+However, not all claims lend themselves to this type of proof. Sometimes
+value is difficult to measure. For example, suppose one of your core value
+points is that you make it easy for a user to get up and running on the
+software. You could show that directly in a demo, and that would help the
+buyer get a feel for how easy it might be. You might be able to get data that
+shows that users on your system feel fully trained in a day versus a week for
+your competitors. You can also prove value by having customers talk about
+their own experiences and how easy it was for them to get their users up
+and running on the system. Remember that you saying something about
+your own product isn’t proof, but a customer saying it is.
+
+Here is a list of some ways you can prove that a value point is true:
+1
+Customer case studies
+2
+Third-party verification
+3
+Certification—for example, you have SOC 2 compliance for security
+4
+Statistics that are validated by your customers
+5
+Customer quotes
+6
+Quotes or reviews from industry analysts
+7
+Industry research or survey results from third parties
+8
+Awards
+
+“Facts tell, but
+stories sell.”
+Bryan Eisenberg
+
+
+Step 7
+Objections
+
+A good salesperson will handle any
+questions or objections a customer may
+have as they occur in the sales meeting.
+However, you may notice that there are
+common objections that are crucial to
+address in the first meeting, whether or
+not the customer has raised them.
+This step is optional. If you find there are common unspoken objections you
+need to handle, this is when you would do that, but if not, you can skip this
+step.
+
+Typical objections and responses might sound something like this:
+Prospect: This sounds difficult to deploy.
+Rep: We have a dedicated team that will help you with deployment. Here’s
+what a typical deployment schedule looks like, and it usually it takes two
+weeks.
+Prospect: The price is likely too high for us. / We aren’t sure we have the
+budget.
+• • •
+Rep: This is the way our pricing model works and what this would look like
+for three different types of customers. We can give you a specific quote for
+your situation whenever you are ready.
+Prospect: Getting end users to adopt this will be difficult.
+• • •
+Rep: We have a dedicated training team that will work with you to get users
+onboarded. Here’s what some of our customers have to say about user
+onboarding.
+Prospect: We don’t want everything now, just pieces of it.
+• • •
+Rep: Our platform is modular, and it isn’t uncommon that customers want
+to start small and grow with us. Here’s how those steps usually look over
+time.
+Prospect: Anything we adopt needs to be compliant with certain regulations.
+/ Anything we adopt needs to integrate with our existing infrastructure.
+• • •
+Rep: We are currently compliant with all regulations necessary for a
+solution like this, and we would be happy to walk your technical team
+through this. We integrate easily with your current infrastructure through
+our well-documented API. Most deployments take about two weeks for
+integration work. Our services team can help plan how best to do that, and
+we would be happy to talk to your technical team about how that would
+work.
+
+Anticipating and
+handling unspoken
+objections is often
+a critical component
+of a first sales call.
+
+Rep: We know that switching providers for a solution like this is never easy,
+so we make it as seamless as possible to get started with us. Our clients
+often start with a small initial deployment. Our team can help you define
+what the requirements would be, and usually we can get a client like you up
+and running in as little as a week.
+• • •
+Rep: Most of our clients find it helpful to start with a proof of concept,
+where you can get a feel for how our solution works with your data. We can
+easily migrate the data into our system for you in as little as a day, and we
+don’t need the assistance of your IT department.
+• • •
+Rep: Some clients worry about how our system would work with your
+existing tools. We have a set of pre-built integrations that cover most tools
+teams like yours use. We also have an API that allows for custom
+integrations.
+
+Rep: We know that you operate in a regulated industry, so our solution is
+SOC 2 and ISO 27001 certified. We have worked with X, Y, and Z
+corporations and satisfied their compliance and security requirements, so
+we are sure we can satisfy yours. We often find it helpful to meet directly
+with the IT team at some point to help them understand the depth of our
+security posture.
+Practical Tips
+What about a common objection that you don’t have a good response for?
+In this case, I would not recommend that you deliberately call the objection
+out if the customer hasn’t raised it. That said, if in the course of building
+this sales pitch you realize there is an objection you simply aren’t doing a
+great job of handling, take this as a sign that fixing the problem should
+move up in your list of priorities.
+
+Step 8
+The Ask
+
+Just like the other stages of the sales
+pitch, you want to be deliberate about
+the way your conversation comes
+to an end. That includes helping your
+prospect decide what to do next.
+
+It isn’t unusual to see inexperienced sales folks get to the end of a sales
+meeting and leave it up to the prospect entirely to decide what the next step
+should be. Now is the time to embrace your role as a guide helping the buyer
+through the purchase process.
+“The Ask” will depend on what you believe is the best next step in your
+purchase process. For example, if your best-fit customers usually run a proof
+of concept (POC) and your team wants to encourage that, suggesting how to
+move forward with a POC would be a good ask, using these questions as
+guidelines:
+
+•
+Who needs to be involved with a POC?
+•
+Do we need to set up an additional meeting with those folks?
+•
+Are there other steps that need to be taken (signed non-disclosure
+agreements, a completed security review, etc.)?
+•
+If so, how would we get them completed?
+
+The next step could be a fully customized demo in front of a wider group of
+stakeholders, getting the client signed up for a trial version of the product,
+asking if you can prepare a detailed quote, or simply asking for the sale.
+Whatever it is, be sure that the meeting doesn’t end without a clear next step
+Not every buyer should or will move past a first sales call. The goal in the
+first call should not be to get every customer closer to making a purchase.
+Instead, your goal is to get every good-fit buyer past this stage. A good first
+sales call will get good-fit prospects excited to move forward; it should also
+make clear to bad-fit prospects that this is not the solution for them. Ideally,
+your qualification step will weed out most of the bad-fit clients, but don’t
+expect it to weed them all out. Quickly getting misaligned prospects out of
+your sales process is good for everyone.
+
+Practical Tips
+Mature sales organizations will have a documented and tested sales process
+with a set of distinct steps they move though before a deal is closed. Many
+start-ups fail to have an ask at the end of their sales pitch at all (“Call us if
+you have any questions!” doesn’t count). If your company is new and your
+sales process is less evolved, a good starting point to get some structure is to
+be consistent in what you ask the customer to do after the first sales call.
+This will also give you a starting point to at least test which call to action
+works best with your customer set.
+Gearset’s Differentiators
+Gearset’s main differentiators come from their background in DevOps. First,
+they believe teams deploying Salesforce releases should work like any other
+development team, using standard DevOps tool sets and processes as far as
+possible. In contrast, Gearset’s rivals chose to implement their own solutions
+for things like project management and source control.
+Second, Gearset is built outside of Salesforce, allowing the team to leverage
+the most suitable technologies to provide tailored solutions to problems
+unique to Salesforce, like sophisticated comparison, merging, and
+deployment for Salesforce metadata. Gearset’s rivals chose to build on top of
+Salesforce, constraining them within its UX paradigms, and to focus on
+breadth over depth.
+And third, Gearset has a much larger customer set than any of their
+competitors, making them a deeply experienced, trusted choice.
+
+Translating
+the Storyboard
+into a
+Sales Pitch
+
+Congratulations! You have a storyboard
+for your sales pitch. Next, you need
+to turn the storyboard into a pitch your
+reps can use.
+Where and How to Use
+Slides, a Demo, and a Script
+Building the final sales pitch generally involves a team effort between
+marketing and sales. Marketing can help with crafting slides, getting
+graphics created, and wordsmithing the script. Sales needs to ensure that
+what gets built fits the timeline of a first conversation and makes sense in
+the context of a sales call.
+Do You Really Need a Standard Deck and a Script?
+Every mature sales organization I know has a standard first-call sales pitch
+deck that reps are trained to use and that comes with some form of script
+that teaches them what to say. Some start-ups I’ve worked with are
+uncomfortable with the idea of a “scripted” deck because they worry that
+the sales reps will simply repeat the script like robots. Obviously, you don’t
+want sales robots, but you do want to get some standardization in the first
+call for several reasons.
+“Don’t sell
+life insurance.
+Sell what life
+insurance can do.”
+Ben Feldman
+
+First and foremost, a standardized first-call deck ensures that you are
+consistently positioning your offerings in the best way you can. You agreed
+on your positioning at the executive team level, using everything you know
+about your customers, competitors, and differentiated value. You need to
+ensure that you are telling your best story to every prospect.
+Second, a standardized deck makes it much easier to onboard new reps.
+Your most experienced salespeople might know enough to wing their way
+through a pitch, but a new rep never will. As you scale, fast onboarding
+becomes critically important.
+Third, it’s impossible to measure and learn what’s working and what isn’t if
+every rep is having a different conversation in the first call. Standardization
+helps you understand when and where things need to change.
+
+The script can take the form of a word-by-word story or simply be a series
+of bullet points and suggestions. Either works fine, in my opinion, and you
+should expect sales reps, as they get comfortable with the story, to
+improvise and add their own flair to it. What you don’t want to see are reps
+significantly changing the story to the point at which you have lost the flow
+completely, or you are no longer centered on your differentiated value.
+There is also a tendency for sales reps to drift off message over time. The
+mature sales organizations I have worked with will periodically “recertify”
+reps on the pitch by having them pitch to the sales executive to ensure that
+the story remains consistent. Without regular check-ins, it becomes very
+hard to ensure that your sales team is delivering the message in a consistent
+way over time.
+
+Slides versus a Conversation
+Different companies will choose different ways to communicate each step
+of the pitch. Some teams prefer to use slides; others will choose to simply
+have a conversation. Some products show well in a demo and others don’t.
+Some companies like to have a full, detailed script, and others stick with
+bullet points. Regardless of how you choose to build out the pitch, you will
+need to make it consumable to your sales reps.
+
+Step 1, Insight: The Insight step is generally done with a slide (or multiple
+slides). I find it helps in making your point very clear to the prospect. I’ve
+also seen reps very effectively do the entire setup phase in a quick
+conversation with the customer.
+Step 2, Alternatives: The competitive pros and cons can be done in a wide
+variety of ways. I’ve always used a very simple table for this step, but I’m
+careful to keep the number of words to a minimum. I like having a visual
+reference, but I don’t want the prospect reading a slide when we should be
+having a discovery conversation. In my experience, the script for this slide
+works best if you give reps the key pros and cons of each solution in bullet
+form, plus a set of questions they can work into a discovery conversation.
+We generally expect this step to be free-flowing, so I would not expect reps
+to stick to a strict script here, but I would expect them to find a way to make
+their key points and ask the key questions. The route reps take to get there
+can vary.
+Step 3, The Perfect World: This step can be done easily with or without a
+slide. Sometimes I like to position this as the conclusion to our discovery
+conversation and leave it at that. If The Perfect World has several points,
+sometimes I like to have a slide just to reiterate those points.
+Step 4, The Introduction: The Introduction is generally done with a slide.
+Often, it will include a graphic to help introduce the offering, particularly
+when the offering is a suite or platform, or if you are introducing everything
+the company delivers.
+Step 5, Differentiated Value: Differentiated Value is often done with a
+demo, but it doesn’t need to be. For highly customizable products, I’ve seen
+companies do this step with slides, or slides with screenshots, and then use
+a customized demo later in the sales process. If you do intend to use a
+demo, the demo flow needs to follow the value themes. I often use a slide to
+introduce the value themes, then run the demo, and then wrap up with a
+slide that reiterates the value themes again at the end. You should script this
+demo, but how much scripting you use is totally up to you. I prefer to have
+a full, detailed script that a brand-new rep can use without assistance from a
+sales engineer. As a rep gets more comfortable with the demo, they can then
+improvise, as long as they are sticking to the value themes.
+Step 6, Proof: The Proof step is often a case study, a logo slide, and
+potentially some “sparklers,” like awards or accolades, and is usually done
+with slides.
+Step 7, Objections: How you present the optional Objections step will
+depend on the message you need to communicate. It is done either with a
+slide or a scripted talk track for the rep.
+
+Step 8, The Ask: The Ask can be a slide or scripted discussion.
+Now you have a set of slides, a demo, and a script your sales team can use
+for a first call with a prospect. But we aren’t quite at the finish line yet.
+Next, we need to validate that the pitch works and then roll it out to the
+sales team. We also want to start thinking about how the sales narrative will
+be used beyond sales calls.
+
+Part 5:
+Testing and
+Launching the
+Sales Pitch
+
+Test, Discuss, Iterate (within Limits)
+Ideally, during the testing phase, the folks who created the sales pitch
+should be listening to each call the rep is doing. After every call, the team
+should sit down and compare notes on what they felt did and did not work
+in the meeting.
+•
+Where was the prospect getting lost?
+•
+Where was the prospect getting excited?
+•
+Were there questions asked that might indicate there was something
+confusing in the pitch?
+
+Be careful, however, that you
+don’t start to iterate on anything that is a core part of the sales pitch itself.
+It’s fine to make smaller changes, but you don’t want to ruin the test by
+substantially changing the pitch itself.
+
+The Pass/Fail Criteria
+Most metrics we use to measure the effectiveness of a sales pitch take a
+long time to measure. In the short term, it’s often hard to measure
+empirically whether or not the pitch is working. In the long term, upgrading
+your sales pitch will drive an improvement across a range of sales metrics.
+For example, you would expect to see more leads progressing to the next
+phase of your sales process, as well as bad leads dropping out early in your
+process, and an upswing in close rates down the line as a result. As the
+marketing team starts to adopt the story, your overall lead quality should
+improve, along with a corresponding improvement in sales metrics.
+However, if your sales cycles are long—weeks and months as opposed to
+days—or you have a very high average deal size and therefore a low
+volume of pitches to test on, you might need to move forward with less hard
+evidence and more qualitative indicators that the pitch is or is not working.
+We don’t know if
+we have the best
+story possible, but
+we know if it’s better
+than the old one.
+
+What Happens if the Test Fails?
+In my experience working with companies on sales pitches, a failed test at
+this stage is rare, but it can happen. If the best minds, with the most
+customer knowledge in the company, are involved in creating the pitch, it
+would be surprising if they came up with something that didn’t work. If the
+pitch fails, there are usually two root causes: either the sales team wasn’t
+involved enough in the creation of the pitch, or the pitch doesn’t work
+because the positioning is weak.
+Fixing the first of those root causes is a matter of running the sales pitch
+creation process again, with more involvement from salespeople who have
+experience with customers in the early stages of deals. If the sales team is
+already heavily involved in creating the pitch, then the culprit is weak
+inputs to the pitch creation process. And if that is the case, the team will
+need to go back and formally review their positioning
+
+Who Owns the Sales Pitch?
+I often get asked who should “own” the sales pitch after it is developed. I
+believe in cross-functional teams to create positioning and the sales pitch,
+but I do think it makes sense to designate someone to be responsible for
+stewardship of positioning and the sales pitch. Because positioning and the
+sales pitch are closely tied, ideally we have someone who is responsible for
+both.
+If a product marketing function exists in your company, this is the natural
+place for the positioning and sales narrative to land. That person will be
+responsible for documenting both positioning and the sales pitches, as well
+as any approved assets that go with it, such as graphics or illustrations.
+
+Common Mistakes
+
+
+
+Insight That Isn’t Unique
+Some companies will try to use a common industry trend as insight at the
+start of their sales pitch, rather than the company’s unique insight into the
+market. For example, I have seen variations of “Companies are generating
+more data than ever before,” or “The pace of AI adoption is accelerating,”
+or “Companies need to digitally transform their businesses.” All of these are
+obvious trends in the market. The key to Step 1, Insight, is to go beyond
+these surface-level observations and get down to the insight that makes your
+solution uniquely valuable. Your insight should be unique and differentiated
+because you need it to set up the reasoning behind why your unique,
+differentiated value is important.
+
+A Lack of Discovery
+Experienced sales reps will naturally see Step 2, Alternatives, as a place to
+do discovery. Less-experienced reps may fall into a trap of talking at a
+prospect, rather than taking the time to ask questions to make sure their
+characterization of the market is resonating with the prospect and that they
+are getting what they need to fully understand the prospect’s situation. That
+doesn’t necessarily mean you need to spend a long time on this step—it will
+depend on how many alternative approaches you want to cover and the
+complexity of their pros and cons. The key in this step is to make sure the
+prospect sees their current situation and choices in the picture you paint of
+the market before you move on.
+
+Spending Too Much Time on the Setup Phase
+One of the most common mistakes companies make with this format is
+spending too much time on the setup phase. The first call with a prospect
+can last anywhere from thirty minutes to an hour. Most companies can get
+through the setup part of the pitch in a few minutes, depending on how
+active the discussion with the prospect is. I’ve seen companies do the setup
+in as little as ninety seconds, but others that need up to ten minutes.
+The setup is important, and you should never skip it. But you need to spend
+the bulk of your time ensuring that the prospect grasps your differentiated
+value. The setup provides important context so your prospect understands
+the importance of that value, but don’t forget that your value is the meat of
+that first call.
+Weak or Undifferentiated Value Themes
+Your positioning is the fundamental input to the sales pitch. Weak
+positioning leads to a weak insight statement and will result in an
+ineffective story about how you are differentiated from the alternatives.
+Your Differentiated Value step is the most important input to the pitch
+because this is where you articulate what your solution can do for prospects
+that no alternative solution can deliver. If that value is weak or not very
+differentiated, then the pitch will not be compelling and is unlikely to work.
+
+“The customer’s
+perception is
+your reality.”
+Kate Zabriskie
+
+Proof That Doesn’t Match the Prospect’s Situation
+In Step 6, Proof, some companies default to sharing a case study, and often
+use the same case study for every prospect. If your prospects are similar,
+this might be fine. But ideally you want your proof to connect to both the
+value themes you’ve covered and the individual prospect’s situation.
+Wherever possible, you want to have proof that matches the prospect. For
+example, if you are using a case study, it should reflect a similar industry or
+show a similar use case, such as moving from the same status quo solution.
+An Ask That’s Too Complicated
+Buyers don’t necessarily know how to evaluate and purchase solutions. So,
+it’s your job to make sure that the ask is straightforward and doesn’t cause
+the prospect to second-guess whether they should accept your
+recommendation for how to move ahead. The Ask step should move the
+deal forward (assuming the prospect is a good fit for your solution) by
+giving the prospect a next step that is easy to say yes to.
+
+
+Using Your
+Sales Pitch
+Story beyond
+Sales Calls
+
+In particular, once the pitch is developed, it will become a key input to your
+company’s marketing messaging and can be used either directly or
+indirectly in different types of marketing content. A sales pitch that is built
+through this methodology uses your positioning as a foundation. Therefore,
+it has the same core differentiated value, which you determine as part of
+your positioning, at the core of your marketing messaging. Building a sales
+pitch in this manner ensures that the story you are telling in marketing is
+aligned with the story you are telling in sales.
+
+The Buyer’s Guide
+One of my favorite categories of marketing content is the buyer’s guide. As
+I told you at the beginning of this book, many prospects have never
+purchased a product like yours before. They are desperate for information
+that can help them make choices they feel comfortable with and can also
+defend to their boss and other stakeholders. A buyer’s guide is a great way
+to walk prospects though what you believe a knowledgeable buyer should
+consider. It is also a great piece of lead generation content—a prospect’s
+interest in a buyer’s guide is a strong signal that they are currently shopping
+for software in your space.
+
+I’ve created dozens of buyer’s guides, and each one has included pieces that
+came from my sales pitch. A good guide gives buyers a way to think about
+purchase criteria. It may include checklists of features that a buyer should
+look for, but more importantly, it helps buyers understand when and why
+they should be looking for those features. The insight from your sales pitch
+(Step 1) is often a good starting point for a buyer’s guide because it helps
+customers understand what’s important. The buyer’s guide can educate
+customers on how certain important features map to value and give them a
+way to determine whether that value is important to their business. Using
+the Alternatives step in the sales pitch, you can then build categorized
+value/feature checklists with commentary suggesting which customers
+should include what features in their purchase criteria.
+
+“A well-told story is
+a gift to the reader/
+listener/viewer because
+it teaches them how
+to confront their own
+discomforts.”
+Shawn Coyne
+Visual Elements
+Most companies could and should take advantage of representing their
+company or product using a well-thought-out graphic. There are a few
+different graphics you can use to communicate your differentiation and
+position in the market. Here are a few examples:
+•
+The product suite
+•
+The company portfolio
+•
+The “how we fit into your current infrastructure” illustration
+•
+The workflow graphic, which shows how a particular use case or workflow
+gets done. The goal is to highlight a specific value point, such as “saves
+time” or “eliminates manual processes.”
+A visual can do a lot to position your offering and tell a story about how
+you are different from your competitors. You can find some examples in the
+downloadable materials available at aprildunford.com/books.
+
+The Conference Talk
+I’ve worked with a number of founders who regularly speak at conferences.
+While I don’t believe it is appropriate to do a sales pitch as a conference
+talk, there are components of the pitch that are perfectly suited to a
+conference talk. The setup phase of the sales pitch is centered on your
+insight into the market. That insight is often a great topic for a conference
+talk. It gives the speaker a chance to expose their thinking about the market
+while providing valuable information and insights to the audience. Pay
+attention to the start-up CEOs you see speaking at conferences—many of
+them are speaking about what they have learned about the space they are in
+and how they formed a unique point of view on the market.
+
+Research, White Papers,
+and Other Content
+Similar to the conference talk, some companies will sponsor or conduct
+research that explores the themes of their market insight, and then distribute
+the results of that research in a white paper or other marketing content.
+Many companies will publish yearly research that tracks trends and the
+adoption of solutions in the market. All of this should be aligned with and
+could even feed into the Insight step of your sales pitch. Results and
+conclusions from this type of research are often easily repurposed into blog
+posts, social media content, and other materials.
+
+Conclusion
+Selling is incredibly hard. Good salespeople will spend years developing
+their skills, and some of them will never master them. However, building
+a good sales pitch doesn’t need to be difficult. If you stay focused on
+helping the buyer make a confident decision, you will end up with a
+pitch that works.
+Here are a few key takeaways I’d like to leave you with:
+1
+Buying is hard. Do not underestimate how difficult making a purchase
+decision can be for your prospects.
+2
+“Do nothing” is the most fearsome competitor you have. If customers cannot
+figure out how to confidently make a purchase decision, they simply won’t
+make one.
+3
+A sales pitch is special. Companies tell different stories for different
+audiences and for different purposes. A sales pitch is a unique style of story
+designed to guide the customer to a place where they can say yes with
+confi 4
+A great sales pitch starts with your company’s unique insight into the
+market. Sales pitches that start with generic problems or trends will not lead
+prospects to your unique differentiated value.
+5
+Help customers understand their options and they will be better informed to
+make decisions confidently. You don’t need to bash the competition to do
+this.
+6
+Differentiated value is the star of the show. Customers don’t care about
+features. They care about what those features can do for their business.dence.
+
